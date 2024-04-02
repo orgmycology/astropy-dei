@@ -26,12 +26,23 @@ This is certainly not to suggest that other fields have achieved desired results
 
 ## 3. Actively Learn from Adjacent Communities
 
+There is a rich ecosystem of organizations supporting open source scientific software and open source scientific communities. Some of these communities have experienced many of the same challenges that Astropy is experiencing. Looking at these communiteis, th
+
+rOpenSci, Carpentries, Turing Way, pyOpenSci (effort already underway with Astropy)
+
 
 ## 4. Be Open to, But Critical of Shared Services
 
+**NOT SURE THIS IS WHAT YOU MEAN HERE DAN, but taking a stab anyway...**
+With community members already busy with considerable commitments in many areas, software, day-jobs, career advancement, it can be tempting to consider shared services models for some core community activities. One example of this is the idea of a fiscal sponsor (NumFOCUS) for example bringing the work of organizaing and maintaining a Code of Conduct enforcement committee for all fiscally sponsored projects of the organization. This could be compelling, but it could also lead to the commnuity loosing touch with its own self-work to improve itself and address root-causes of Code of Conduct incidents. Finding a balance where the community can collectively hold its enforcement, and have enabling infrastructure and guidance that makes it "lightweight" to do so are what we'd recommend for a growing community like Astropy. 
+
 ## 5. Consider Geography and Timezones
 
+It was clear from the communnity survey that there is a dominant gravity for timezones in North America. This dominant gravity can lead the community to make decisions about meeting times that are difficult for those in other global timezones to feel included in the community. Astropy is alredy a very asynchronous community, but in its synchronous moments, it could be useful to bring more consideration to those in minority timezone areas. Additonally, when key annual events are held in the USA, there can be very restrictive visitation visa restrictions for travel to the United States for people from some locales. It can be worthwhile to consider annual events taking place each year in countries with less restrictive visa requirements. 
+
 ## 6. Develop Community-Driven Definitions and Metrics for Diversity
+
+The Astropy community should work to collectivly define its own targets and progress benchmarks for increasing and expanding diversity as a community. It is clear that the Astronomy community at-large still has siginificant DEI issues, and it is also clear that many in the Astropy community aspire for it to challenge those trends with a new model of working and including others. For this to be successful, it will be important for the leadership of Astropy to be the ones defining what DEI looks like for Astropy, no consultant recommentdations can fill-in for frank and open community converstaions. We encourage Astropy community members to continue to advocate for finding the time and space to have these conversations, and bring the conversations toward key measurable goals for the community. 
 
 ## 7. Use _Political Opportunity Structures_ to Drive Change
 
