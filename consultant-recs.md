@@ -7,7 +7,6 @@ The insights offered from the community reflect both challenges and opportunitie
 - Offer the project as a place for diversity to grow in astronomy AND computing, OR either of those things separately
 - Map and accelerate the trends in adjacent fields
 - Things that are already happening (Summer Research Opportunities, internships, travel funds, etc.)
-- SROP
 - Boundaries can be pushed because of university affiliations
 - Things that are not yet happening: Equipping underrepresented communities with skills that will give them a leg up
 - Relevant trends: Scientific computing skills among undergrads/grads
@@ -26,6 +25,7 @@ This is certainly not to suggest that other fields have achieved desired results
  
 
 ## 3. Actively Learn from Adjacent Communities
+
 
 ## 4. Be Open to, But Critical of Shared Services
 
