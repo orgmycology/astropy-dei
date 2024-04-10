@@ -9,3 +9,5 @@ Our interviews also built on what we learned from the Community Survey about the
 The full interview protocol can be found in Appendix A: Interview Questions for DEI Respondents.
 
 We recorded our 60-minute videoconference interviews and transcribed the conversations into text. We then analyzed the transcripts using standard qualitative data analysis techniques, which aim to identify and explore themes that were common across participants and insights that were novel and valuable, even when only one participant mentioned them. We put these findings into conversation with existing DEI guidance documents, the results of the Community Survey, and ongoing discussions with the Astropy community manager to present the themes and offer recommendations. 
+
+Where possible, we included excerpts from the interviews to illustrate themes in community member responses. In many cases, responses were too identifiable and/or too sensitive to include here. The excerpts that are inlcuded in this report are de-identified and anonymized, with minor details obscured to protect the identity of the respondent.
