@@ -1,0 +1,3 @@
+# Overview of Findings
+
+We present our findings in two parts: Community Recommendations and Consultant Recommendations. The Community Recommendations section presents the themes that emerged directly from interviews, describing the common perceptions respondents held and their ideas for improving the state of DEI in Astropy. The Consultant Recommendations section places these themes in conversation with our understanding of Astropy's opportunities and capabilities as well as outside expertise. This outside expertise includes published materials from DEI researchers and practitioners, our observations and interactions with other open source communities, and trends in the broader computing and scientific landscapes.
