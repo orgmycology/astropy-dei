@@ -1,0 +1,55 @@
+project:
+  type: book
+  output-dir: _output
+
+toc: true
+number-sections: true
+
+book:
+  title: "Astropy DEI"
+  author: 
+   - name: Dan Sholler
+     email: dan@orgmycology.com
+   - name: Beth Duckles
+     email: beth@orgmycology.com
+   - name: Jonah Duckles
+     email: jonah@orgmycology.com
+  date: "April 15, 2024"
+  downloads: [pdf]
+  page-footer:
+    left: |
+     A report on Diversity Equity and Inclusion (DEI) in the Astropy community
+    right: |
+      [![](/short_logo.png)](https://orgmycology.com)
+  cover-image: cover.png
+  favicon: cover.png
+  site-url: https://astropy-dei.orgmycology.com
+  repo-url: https://github.com/orgmycology/astropy-dei
+  repo-branch: main
+  repo-actions: [edit, issue]
+  sidebar:
+    logo: cover.png
+    style: docked
+    background: light
+    collapse-section: 1
+    border: true
+  chapters:
+    - index.md
+    - part: Introduction and Methods
+      chapters:
+        - intro-background.md
+        - methods.md
+    - part: Findings  
+      chapters:
+        - findings-overview.md
+        - community-recs.md
+        - consultant-recs.md
+  appendices:
+    - interview-protocol.md 
+format:
+  html:
+    theme: flatly
+  pdf:
+    cover-image: cover.png
+    documentclass: scrbook
+    papersize: a4
