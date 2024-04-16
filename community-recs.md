@@ -8,6 +8,16 @@ In DEI interviews and the [community survey](https://astropy-report.orgmycology.
 
 Much of the work of Astropy historically has been the work of software development, but in recent times efforts such as training, lesson development, documentation and community leadership have become new roles valued within the community. Each of these, non-coding areas, is an area where on-ramps and invitations to contribute can be extended in different ways. It was clear that many "users" of Astropy care deeply about the software and its continued availability and are looking for ways they can contribute to that end. Closing the loop and connecting "newcomer" enthusiasm to areas of effort would be beneficial. 
 
+There was also optimism among interviewees that automated tooling could reduce the social or psychological burden of contributing, particularly for newcomers who might be nervous about the quality of their work:
+
+>_There's lots of new concepts happening, but in terms of the actual, like, difficulty of pushing a piece of code and then getting an automated response and then tailoring it before I think the humans really need to see it is you need a little bit of experience and mostly just gumption._ -Astropy maintainer
+
+>_One of the weird things I think is important is also making more avenues for contributing to the code ... From qualitative experience watching new contributors, many times there are people who don't know astrophysics, but who are interested in contributing to the code base. And so, you know, they're maybe not bad at algorithms. Or oftentimes many of them are just interested in like stylistic and linguistic improvements, which astropy was in desperate need of, and less desperate need, but still needs. So we've seen a lot of people that swing in for two, three contributions, supplementing the code. So I think one thing that would be great would be figuring out how, but I think part of it is that non-substantive contribution than ones that are just like to the stylistic beauty of the code. It's a nice itch to scratch, but I don't think it's fulfilling in the same way that, you know, making something, making it something that's a contribution. I think people end up drifting onto the next thing, but it'd be nice if it stuck around. So figuring out how to do that would be great._ -Astropy maintainer
+
+>_I mean, yeah, we don't assign them to anything. If they actually had a very tight PR, so it was well-focused on one issue, then that often takes the form of right here: "Thank you so much for contributing. There are plenty of other of these types of PRs. We have a list of them on our issues page on GitHub, so please take a look." That's if their PR was well-crafted from the get-go._ -Astropy maintainer
+
+
+
 
 ## 2. Embrace Intellectual Diversity
 Newcomer challenges are exacerbated when the community member is coming from a non-astronomy discipline. 
@@ -33,6 +43,8 @@ Newcomer challenges are exacerbated when the community member is coming from a n
 - Role models
 
 ## 5. Give Guidance to Core Developers and Maintainers
+
+>_I think most astropy maintainers are pretty studious to then present a, um, a friendly face, you know, even if something's quite clearly wrong. When it's another maintainer, you're like, "Please fix." If it's a person contributor, you're more like, "Uh, oh, thank you so much. I see that there's an issue here. There are some ways to address it. Please let me know if you need any help." I think the friendly face is important._
 
 ## 6. Make Community Member Roles and Pipelines Explicit
 
