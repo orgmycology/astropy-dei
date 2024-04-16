@@ -48,6 +48,7 @@ book:
     - interview-protocol.md 
 format:
   html:
+    number-depth: 1
     theme: flatly
   pdf:
     cover-image: cover.png
