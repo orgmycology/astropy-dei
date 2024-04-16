@@ -1,6 +1,9 @@
-## Abstract 
 
-Abstract:
+## Disclaimer
+
+**The views reflected in this report come from a variety of sources within the Astropy community and from Organizational Mycology. These views do not necessarily reflect the thoughts and opinions of Astropy leadership or the broader Astropy community. Given how sensitive these topics can be, please feel free to reach out to us at info@orgmycology.com with any questions, comments, or concerns.**
+
+## Abstract
 
 This report synthesizes community-driven recommendations derived from a comprehensive analysis of participant interviews, aiming to inform and enhance Diversity, Equity, and Inclusion (DEI) practices within the Astropy project. The feedback from the community reflects a shared concern for increasing newcomer engagement and supporting a broader definition of valuable contributions beyond traditional software development.
 
