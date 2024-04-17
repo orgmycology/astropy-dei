@@ -6,17 +6,19 @@ Our analysis of participant interview transcripts resulted in several community-
 
 In DEI interviews and the [community survey](https://astropy-report.orgmycology.com), respondents overwhelmingly expressed a desire to improve avenues for newcomer participation in Astropy. Specifically, respondents noted that newcommers have trouble finding ways to get started working with and within Astropy communities. We are aware that Astropy maintains a list of "good first issues," but interview participants were either unaware of the existence of the issue tag or believed the list was too short or specific for most newcomers to find a place to contribute.  
 
-Much of the work of Astropy historically has been the work of software development, but in recent times efforts such as training, lesson development, documentation and community leadership have become new roles valued within the community. Each of these, non-coding areas, is an area where on-ramps and invitations to contribute can be extended in different ways. It was clear that many "users" of Astropy care deeply about the software and its continued availability and are looking for ways they can contribute to that end. Closing the loop and connecting "newcomer" enthusiasm to areas of effort would be beneficial. 
+Fear of failure and concern over contributing detrimental code also impacts newcomers' propensity to become contributors. Indeed, one astropy user we interviewed expressed fear of "breaking" something with new code, which has partially kept her from being a contributor:
 
-There was also optimism among interviewees that automated tooling could reduce the social or psychological burden of contributing, particularly for newcomers who might be nervous about the quality of their work:
+>_"The imposter syndrome that kind of gets you where you're like, "Ooh, scary. What if I add this thing and it's bad or it breaks something?"_ -Graduate student astropy user
+
+In considereding how to alleviate these fears, there was some optimism among interviewees that automated tooling could reduce the social or psychological burden of contributing, particularly for newcomers who might be nervous about the quality of their work:
 
 >_There's lots of new concepts happening, but in terms of the actual, like, difficulty of pushing a piece of code and then getting an automated response and then tailoring it before I think the humans really need to see it is you need a little bit of experience and mostly just gumption._ -Astropy maintainer
+
+Much of the work of Astropy historically has been the work of software development, but in recent times efforts such as training, lesson development, documentation and community leadership have become new roles valued within the community. Each of these, non-coding areas, is an area where on-ramps and invitations to contribute can be extended in different ways. It was clear that many "users" of Astropy care deeply about the software and its continued availability and are looking for ways they can contribute to that end. Closing the loop and connecting "newcomer" enthusiasm to areas of effort would be beneficial. 
 
 >_One of the weird things I think is important is also making more avenues for contributing to the code ... From qualitative experience watching new contributors, many times there are people who don't know astrophysics, but who are interested in contributing to the code base. And so, you know, they're maybe not bad at algorithms. Or oftentimes many of them are just interested in like stylistic and linguistic improvements, which astropy was in desperate need of, and less desperate need, but still needs. So we've seen a lot of people that swing in for two, three contributions, supplementing the code. So I think one thing that would be great would be figuring out how, but I think part of it is that non-substantive contribution than ones that are just like to the stylistic beauty of the code. It's a nice itch to scratch, but I don't think it's fulfilling in the same way that, you know, making something, making it something that's a contribution. I think people end up drifting onto the next thing, but it'd be nice if it stuck around. So figuring out how to do that would be great._ -Astropy maintainer
 
 >_I mean, yeah, we don't assign them to anything. If they actually had a very tight PR, so it was well-focused on one issue, then that often takes the form of right here: "Thank you so much for contributing. There are plenty of other of these types of PRs. We have a list of them on our issues page on GitHub, so please take a look." That's if their PR was well-crafted from the get-go._ -Astropy maintainer
-
-
 
 
 ## 2. Embrace Intellectual Diversity
@@ -40,6 +42,17 @@ Newcomer challenges are exacerbated when the community member is coming from a n
 - SciPy
 
 ## 4. Identify and Build on Positive Trends
+
+>_I will say that my I know that my perspective is biased for a fact, because I have been very lucky to do my undergrad at [university name] where things are pretty balanced. A pretty good ratio of gender diversity, both in the cohorts that were there, but also in the faculty. And that was something that really, really stood out to me strongly in contrast to the physics department at the same school.Because I remember out of the, I think we had like three classes, three core astronomy classes that were required. And I'm pretty sure that at least two of them were were taught by women, and that was nice. Because it's like, "Okay you have not only do you have a role model that's ahead, I do have a place in this space to do astronomy."_ -Graduate student astropy user
+
+Highlighting these positive trends within the Astropy community can serve as a source of pride and motivation for the project to keep those trends in motion. This effort can be as simple as finding ways to "feature" role models in project communications (e.g., newsletters or forums). The community is certainly eager for insight into younger role models' careers, as one participant described their appreciation for "older" stories but also a desire for more relatable trajectories:
+
+>_I'm not sure about open source in general, but I do feel like I see more men in that direction, and it's usually elder white men who are just kind of there. And, "Oh, well, back in my day when we used punch cards." As much as I love those stories and they entertain me to no end, you know, it does feel a little less, I guess, less fair._ 
+
+
+
+>_I have definitely noticed that there is nowhere near racial parity, for lack of a better word. It's very much white-dominated ... But I also know this is more, even more broadly a STEM problem too, you know, for a lot of folks with underprivileged backgrounds who just don't have the resources to get into higher education in STEM. It just perpetuates, you know, further and further._ -Graduate student astropy user
+
 - Role models
 
 ## 5. Give Guidance to Core Developers and Maintainers
@@ -69,3 +82,11 @@ She continued, noting that word choices can influence who ends up in a community
 - Undergrads
 - non-PIs
 - Interdisciplinary
+
+Interviewees appreciated the collaborative environment Astropy has fostered, comparing it to the sense of competition they observe or pariticpate in with other scientific domains:
+
+>_And, you know, there's so many science spaces where for whatever reason... I know the reason and I don't agree with it, that collaboration is not something that's truly encouraged. It's more competition. And I understand that, you know, there's limited money and that causes a lot of the competition. But I think for science to truly happen, you need collaboration and you need to say, "Oh, we have this core group of people, let's bring people in, let's continually expand." And I mean, obviously you're going to hit scope issue at some point. But, it is nice that it seems like there's genuine efforts on Astropy's part to do that._
+
+Across all interviewees, though, there was an expressed desire to make these collaborations more diverse and inclusive. In some cases, this was geared toward intellectual diversity (see above); in others, interviewees believed there should be more effort put into international collaborations. Among the strongest perspectives was an interviewee who had experience making collaborations more inclusive, describing how they and their advisor continually sought to act with intent and invite underrepresented groups into their research: 
+
+>_We're doing an REU, research experience in undergrad, where we bring in undergraduates to our our school and we're like, "Hey do some stuff." And now that I get to pick them with my advisor and go, "Okay which undergrad do we want?" And so I get a say in that, and that's really cool. One of the things that we talk about all the time is, "Hey, let's think about it, who really  needs this more?" And, and you know, "Is it weird to be picking?" No, not really, because still systemically the odds are not stacked in the favor of the people who are underrepresented. And so if we do have an opportunity to extend that hand, then we should absolutely do so."_ 
