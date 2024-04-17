@@ -5,6 +5,7 @@
 _Improving diversity, equity, and inclusion is a high priority for Astropy. With that in mind, we’ve designed an interview schedule that we will use to query a small subset of the Astropy community. We will ask them about their perceptions of the state of DEI in the community, what they think can be improved, and where Astropy might best direct its resources to addressing DEI issues._ 
 
 Our broad research questions are as follows; specific interview questions appear later in the document.
+
 1. Can we identify ways on how we can improve DEI in the Astropy community?
 2. What types of workshops would help with DEI?
 3. How should any available funding be used to improve DEI?
