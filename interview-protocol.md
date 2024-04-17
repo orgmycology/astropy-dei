@@ -6,14 +6,14 @@ _Improving diversity, equity, and inclusion is a high priority for Astropy. With
 
 Our broad research questions are as follows; specific interview questions appear later in the document.
 
-1. Can we identify ways on how we can improve DEI in the Astropy community?
-2. What types of workshops would help with DEI?
-3. How should any available funding be used to improve DEI?
-4. What should Astropy be doing, concretely, around DEI?
-5. How can we help people “cross the threshold” to be an active, contributing member of Astropy?
-6. Are there distinctions/disconnects between social media forums? FB vs. slack vs. twitter?
-7. What should the role of the community manager be in Astropy’s DEI efforts?
-8. What feedback mechanisms would help advance DEI, beyond the Code of Conduct?
+1.   Can we identify ways on how we can improve DEI in the Astropy community?
+2.   What types of workshops would help with DEI?
+3.   How should any available funding be used to improve DEI?
+4.   What should Astropy be doing, concretely, around DEI?
+5.   How can we help people “cross the threshold” to be an active, contributing member of Astropy?
+6.   Are there distinctions/disconnects between social media forums? FB vs. slack vs. twitter?
+7.   What should the role of the community manager be in Astropy’s DEI efforts?
+8.   What feedback mechanisms would help advance DEI, beyond the Code of Conduct?
 
 **Housekeeping for Interviewee**
 _Thanks so much for being here, I really appreciate your willingness to do this. 
