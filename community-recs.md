@@ -1,12 +1,14 @@
 # Community Recommendations
 
-Our analysis of participant interview transcripts resulted in several community-led recommendations that we feel are valuable to consider when developing new approaches for advancing DEI in the Astropy project. Some of the recommendations echoed themes in Astropy's recent community survey, providing strong rationale for taking action on those points. Where possible, we provide quotes to support a given theme; in some cases, though, we do not provide quotes in order to protect the identities and privacy of the respondents.
+Our analysis of participant interview transcripts resulted in several community-led recommendations that we feel are valuable to consider when developing new approaches for advancing DEI in the Astropy project. Some of the recommendations echoed themes in Astropy's recent community survey, providing strong rationale for taking action on those points. Where possible, we provide quotes to support a given theme; in some cases, though, we do not provide an attribution or quotes in order to protect the identities and privacy of the respondents.
 
 ## 1. Help Newcomers Find Support
 
-In DEI interviews and the [community survey](https://astropy-report.orgmycology.com), respondents overwhelmingly expressed a desire to improve avenues for newcomer participation in Astropy. Specifically, respondents noted that newcommers have trouble finding ways to get started working with and within Astropy communities. We are aware that Astropy maintains a list of "good first issues," but interview participants were either unaware of the existence of the issue tag or believed the list was too short or specific for most newcomers to find a place to contribute.  
+In DEI interviews and the [community survey](https://astropy-report.orgmycology.com), respondents overwhelmingly expressed a desire to improve avenues for newcomer participation in Astropy. Specifically, respondents noted that newcommers have trouble finding ways to get started working with and within Astropy communities. Ensuring a welcoming, accessible newcomer experience is vital to promoting a more diverse community and facilitating equity and inclusion, so we probed on this topic when it emerged in our interviews.
 
-Fear of failure and concern over contributing detrimental code also impacts newcomers' propensity to become contributors. Indeed, one astropy user we interviewed expressed fear of "breaking" something with new code, which has partially kept her from being a contributor:
+We are aware that Astropy maintains a list of "good first issues," but interview participants were either unaware of the existence of the issue tag or believed the list was too short or specific for most newcomers to find a place to contribute.  
+
+Furthermore, fear of failure and concern over contributing detrimental code also impacts newcomers' propensity to become contributors. Indeed, one astropy user we interviewed expressed fear of "breaking" something with new code, which has partially kept her from being a contributor:
 
 >_"The imposter syndrome that kind of gets you where you're like, "Ooh, scary. What if I add this thing and it's bad or it breaks something?"_ -Graduate student astropy user
 
@@ -20,23 +22,29 @@ An astropy maintainer we interviewed noted that reframing some of these contribu
 
 >_One of the weird things I think is important is also making more avenues for contributing to the code ... From qualitative experience watching new contributors, many times there are people who don't know astrophysics, but who are interested in contributing to the code base. And so, you know, they're maybe not bad at algorithms. Or oftentimes many of them are just interested in like stylistic and linguistic improvements, which astropy was in desperate need of, and less desperate need, but still needs. So we've seen a lot of people that swing in for two, three contributions, supplementing the code. So I think one thing that would be great would be figuring out how, but I think part of it is that non-substantive contribution than ones that are just like to the stylistic beauty of the code. It's a nice itch to scratch, but I don't think it's fulfilling in the same way that, you know, making something, making it something that's a contribution. I think people end up drifting onto the next thing, but it'd be nice if it stuck around. So figuring out how to do that would be great._ -Astropy maintainer
 
+Finding new avenues for community members and potential community members to contribute may also benefit from a broader view of the disciplines and backgrounds that are suitable for Astropy, a topic we expand upon in the next point.
 
 ## 2. Embrace Intellectual Diversity
-Newcomer challenges are exacerbated when the community member is coming from a non-astronomy discipline. 
+
+Newcomer challenges are exacerbated when the community member is coming from a non-astronomy, non-scientific OSS discipline. In other words, it is difficult for individuals from other disciplines to "find a place" in the community, even when they believe their unique skillset could be beneficial to the project.
+
+We interviewed an Astropy newcomer from a country that is underrepresented in Astropy. His background is in artificial intelligence and machine learning, where he developed a skillset that he believes could be useful in many different scientific domains. Accordingly, he is continually looking for opportunities to contribute to OSS projects and often collaborates with astronomers and astrophysicists. He has, however, found it difficult to make strong ties in the Astropy community, ties that he thinks would lead to fruitful collaborations:
 
 >_I do find a bit difficult in finding the relevant community because of my different  background. So as I am from AI background and not much familiar with the science or astronomical aspect, I believe that collaboration could be helpful as there are different expertise involved from the collaborator as well as from me, but yeah like there's a lack of communication that I can cite here. The reason is that there are some terms which I may find it difficult ... So due to that, there's not much interaction happening between the between me and the community, which causes some issues while collaborating._ -Astropy newcomer
 
+He is seeking avenues through which he could find these potential collaborators, a sentiment we also heard in the community survey regarding specific astronomy sub-disciplines:
+
 >_I would like to focus myself on collaborative opportunity itself. If we could have a common forum or something like that which is already available as on Slack, then like people can basically talk about the open problems there and people like me who are much more into the ML stuff or who are not much into Astro can accordingly comment on it ... it's just that we know that we have this data and this is the problem. So how to solve the problem is what we can do. And identification of problem is what, from the Astro perspective, will be needed._ -Astropy newcomer
+
+A revised way of finding Astropy community collaborators would enable him to improve his existing strategy for making connections, which depends on reading lots of academic papers and finding places where novel approaches might help improve the method. As he explains, he currently combs through academic papers and presentations and reaches out to the authors when he has an idea:
 
 >_As far as I can see, typical papers from ... a good, a decent journal, all the works there are typically based on very old ML techniques. So again, that's what I feel is causing, I mean, the lack of collaboration is basically what is causing this problem.  Although there can be techniques which can improve the results, way better than what they have achieved, but they are basically unable to because of lack of awareness of these novel algorithms. Basically I go looking throughout those presentations, like particularly from the professors, and by seeing the problem in their particular work there's a substantial opportunity to improve those results. And that's how I had to reach them and accordingly collaborate and work with them on those topics._ -Astropy newcomer
 
+To be sure, this interviewee does view himself as somewhat of an "other": He is aware that the primary goal of Astropy is to improve astronomical research, and his tone suggested he was hesitant to upset the balance of disciplinary backgrounds in the community. He did, however, have some ideas about how to manage this problem:
+
 >_So maybe like people who are interested in AI as well as Astro could be given a specific role and they could interact at that specific channel. Similarly, you can say that Astropy can maybe float a Google form or something like that, asking people about their interest and suitably make a Google group or in Slack itself, make a community or make different channels wherein people can join and discuss stuff._ -Astropy newcomer
 
-
-- Astronomy subdisciplines
-- AI/ML
-- Non-astronomers
-- Non-academics/non-R1
+In other contexts, we have seen the value of inviting participation from individuals with disciplinary backgrounds that may not seem like an ideal "fit" for the project. Technical writers can aid with documentation; data management specialists can find efficiencies in the data storage, manipulation, and processing pipelines inherent in OSS work; social scientists can provide data and insights that help improve collaboration and coordination; and users from wildly different domains can surface and explain issues that might be in typical users' or contributors' blindspots. Promoting intellectual diversity in the project, then, can be beneficial to many different aspects of project health, including but not limited to code quality.
 
 ## 3. Learn from Other Communities and Their Events
 
@@ -46,35 +54,53 @@ We asked interviewees about their perception of DEI in both the Astropy communit
 
 These small interventions--offering multiple ways to report violations and making the process transparent--offer immense utility in making people feel that they have agency in the community. Likewise, making the _people_ who handle these issues visible to the community can also ease concerns about reporting and otherwise discussing incidents or structures that make them feel uncomfortable.
 
-Beyond negative incidents that were handled well, interviewees also discussed encouraging experiences they've had in other communities. One respondent described bringing a family member--an aspiring OSS contributor from a heavily underrepresented group--along to a Python-oriented conference. Perhaps to their surpirse, the welcoming environment led to a strong sense of self-confidence and a host of networking opportunities:
+Beyond negative incidents that were handled well, interviewees also discussed encouraging experiences they've had in other communities. One respondent described bringing a family member--an aspiring OSS contributor from a heavily underrepresented group--along to a Python-oriented conference. Perhaps to their surprise, the welcoming environment led to a strong sense of self-confidence and a host of networking opportunities:
 
 >_Yeah, so I guess like having that explicitly stated, you know, and not just saying a bland general statement about diversity and inclusion, but naming the categories specifically, [and making the physical environment more welcoming], I think that made us all feel a lot more at ease that [family member] was at a good place._
 
+Beyond these examples, looking to other communities can help to identify problems that are common across all types of OSS projects and adapt the solutions to them. OSS leaders know this well, given that they often share frustrations and ideas in informal ways. Formalizing this problem-and-idea sharing process could enable more members of the community to engage in developing solutions to some of the more common problems OSS projects face.
+
 ## 4. Identify and Build on Positive Trends
+
+Across nearly all of our interviews, participants noted how positively they viewed the trend towards gender balance in the astronomy community, broadly, and the Astropy community, specifically. A graduate student astropy user, for example, noted that she has benefitted from observing and participating in a field where women have excelled in teaching, research, and software development:
 
 >_I will say that my I know that my perspective is biased for a fact, because I have been very lucky to do my undergrad at [university name] where things are pretty balanced. A pretty good ratio of gender diversity, both in the cohorts that were there, but also in the faculty. And that was something that really, really stood out to me strongly in contrast to the physics department at the same school.Because I remember out of the, I think we had like three classes, three core astronomy classes that were required. And I'm pretty sure that at least two of them were were taught by women, and that was nice. Because it's like, "Okay you have not only do you have a role model that's ahead, I do have a place in this space to do astronomy."_ -Graduate student astropy user
 
-Highlighting these positive trends within the Astropy community can serve as a source of pride and motivation for the project to keep those trends in motion. This effort can be as simple as finding ways to "feature" role models in project communications (e.g., newsletters or forums). The community is certainly eager for insight into younger role models' careers, as one participant described their appreciation for "older" stories but also a desire for more relatable trajectories:
+Highlighting positive trends like this one within the Astropy community can serve as a source of pride and motivation for the project to keep those trends in motion. This effort can be as simple as finding ways to "feature" role models in project communications (e.g., newsletters or forums). 
+
+In particular, the community is certainly eager for insight into younger role models' careers, as one participant described their appreciation for "older" stories but also a desire for more relatable trajectories:
 
 >_I'm not sure about open source in general, but I do feel like I see more men in that direction, and it's usually elder white men who are just kind of there. And, "Oh, well, back in my day when we used punch cards." As much as I love those stories and they entertain me to no end, you know, it does feel a little less, I guess, less fair._ 
 
-
+Similarly, the community is yearning to diversify the racial and ethnic makeup of both the scientific disciplines and the Astropy project:
 
 >_I have definitely noticed that there is nowhere near racial parity, for lack of a better word. It's very much white-dominated ... But I also know this is more, even more broadly a STEM problem too, you know, for a lot of folks with underprivileged backgrounds who just don't have the resources to get into higher education in STEM. It just perpetuates, you know, further and further._ -Graduate student astropy user
 
-- Role models
+Elevating role models from underrepresented backgrounds requires careful attention to detail, though: Projects must not "tokenize" members of their communities and likewise should avoid adding additional service work to their workload without appropriate input and reward. Self-nomination is a good way to identify potential role models who would be willing to promote visibility and inclusion.
 
 ## 5. Give Guidance to Core Developers and Maintainers
 
+A recurrent theme across any type of social science inquiry into OSS projects is the demeanor of the project's core developers, contributors, and maintainers. To be frank, these individuals can get caught in a bind: The time demands of the (often voluntary) work are not always amenable to kind, patient, and thoughtful interaction. Furthermore, these groups grow accustomed to interacting with one another in ways that prioritize efficiency and technical development over social dynamics. 
+
+While necessary at times, it is important for core project members to remember that they represent the community in ways that the average user or contributor does not. They are continuously interacting with users, contributors, and potential community members at a higher rate than others, and therefore become the "face" of the project for many newcomers.
+
+From the perspective of interviewees, Astropy does a good job of managing the tone and content of interactions with individuals who may not yet grasp the various norms and approaches to communicating about technical topics:
+
 >_I think most astropy maintainers are pretty studious to then present a, um, a friendly face, you know, even if something's quite clearly wrong. When it's another maintainer, you're like, "Please fix." If it's a person contributor, you're more like, "Uh, oh, thank you so much. I see that there's an issue here. There are some ways to address it. Please let me know if you need any help." I think the friendly face is important._
+
+Reiterating the "friendly face" to core project members--whether through formal trainings or small interventions--helps to keep this reality front-and-center as the project grows and evolves. Beyond the friendly face, core members should also be persistent about following up with one-or-few-time contributors who they'd like to see continue to engage and contribute. As one maintainer noted, it's often as simple as pointing these individuals to similar problems that match their skillset:
 
 >_I mean, yeah, we don't assign them to anything. If they actually had a very tight PR, so it was well-focused on one issue, then that often takes the form of right here: "Thank you so much for contributing. There are plenty of other of these types of PRs. We have a list of them on our issues page on GitHub, so please take a look." That's if their PR was well-crafted from the get-go._ -Astropy maintainer
 
 ## 6. Make Community Member Roles and Pipelines Explicit
 
-Making these pipelines explicit could go a long way in diversifying both the Astropy community and the project's leadership.
+Interviewees and survey respondents alike mentioned that the process of moving from user to contributor to core project member is not always explicit or easy to map out. When a newcomer, especially one from an underrepresented background, is considering joining a community, the lack of clarity on this potential trajectory can be a deterrent. In other words, it is easier and more comfortable to learn both technical practices and social norms when one's future role in a commmunity is easy to imagine. 
+
+Making the various community member pipelines explicit could go a long way in diversifying both the Astropy community and the project's leadership. Conversations among leadership and the community about these trajectories may also help to address latent problems in those pipelines. In one of our interviews, for example, we asked about the potential trajectories for community members towards leadership positions. This conversation generated an insight about the Coordinating Committee's diversity that is certainly worth acknowledging and strategizing: 
 
 >_Yeah, well, the field of astronomy, I guess, itself, it still tends to be skewed pretty heavily towards North America and Europe. And yeah, that shows up in the composition of the Astropy Coordination Committee._ -Astropy contributor
+
+In this case, the interviewee ascribes the lack of CoCo diversity to the lack of diversity in the discipline more broadly. The next section, consultant insights, will dive a bit deeper into how Astropy might view itself as a catalyst for change in this domain. Regardless, sparking these kinds of conversations about how newcomers, and even experienced community members, perceive their future in the project can surface actionable insights to improve the project's pipeline from role-to-role.
 
 ## 7. Use "Buzzwords" with Care
 
@@ -87,6 +113,8 @@ This concern cuts both ways. Individuals and groups who are hesitant about DEI i
 She continued, noting that word choices can influence who ends up in a community and, in turn, what work gets done: 
 
 >_Because it does really influence not only the social dynamics that happen if you're including people, versus you're not being nice, but it also does affect not only the way things done, but what things get done. Because if you have a very narrow definition of people, you only have one narrow group, then the probability that everyone thinks the same way is much higher. If you have a really diverse group, you're going to get a lot of different ideas. You're going to get a much better breadth, I think, of idea generation, things to do. And I think that's something that can be, you know, if you're trying to contextualize within Astropy, if you want a tool that everyone truly can use and everyone goes, "Ooh, yeah, this is the one tool for, you know, Python and astronomy," then you gotta have breadth, obviously. And I don't think you can realistically get breadth if the people who are trying to create that all come from one background and have the same sort of things to say about it._ -Graduate student astropy user
+
+Consulting with DEI experts who have a strong command on DEI-focused language and messaging can help in this regard. OrgMycology is limited in its capabilities in this domain, but is happy to offer suggestions for organizations and individuals who hold expertise on communicating about DEI.
 
 ## 8. Offer Safe, Constructive Avenues for Feedback
 
@@ -102,8 +130,13 @@ Considering conditions such as these is important when designing avenues for use
 
 ## 9. Implement and Enforce the Code of Conduct with Creativity
 
+Codes of conduct are very useful for making community members feels safe and comfortable interacting within a community. Many projects, however, struggle with how to implement and enforce these codes of conduct. The primary problem, according to interviewees, is the balance between anonymized and private incident reporting and human-centered incident reporting. On one hand, anonymized reporting can make community members less fearful of retribution for reporting an incident. 
+
+On the other hand, the opacity of reporting in this way can make it difficult for a reporter to know who is handling the issue and what the outcomes may be. Furthermore, reporting forms cannot always capture important signals such as tone, emotion, and other cues that are vital to ensuring the reporter is psychologically safe. Interviewees both hypothetically and anecdotally (see point #3) discussed this balance and often valued human followup even when they might prefer using a reporting form for the initial report:
+
 >_I'm not sure that making it informal would solve that issue, but I think maybe having a liaison of some sort, a human being who's there who's like, "Hey, you filled out the form, great. Let's talk about it, you know, what's something that maybe you felt uncomfortable putting in the form. And here's some clarification on how we make sure that retribution doesn't happen, stuff like that. And maybe have on the page where code of conduct stuff, you know, like, "If you need to report it here, or talk to somebody, get in touch with this person." That can be the liaison who is like, "Okay, well, you know, if you feel uncomfortable reporting it in a very official capacity, let's talk about it." Let's figure out a solution that works for that individual. If they're really, really that fearful of confronting whatever's going on. It is important to listen to people who, you know, are unfortunately having to deal with reporting people breaking a code of conduct. And I think it is important to try to make that process as comfortable as possible._
 
+No matter the process, it is essential that someone in the project is visibly accountable for handling reports and ensuring that the process works as intended. Often this can be more than one person, such as a community manager and an ombudsman. Listing these responsible parties on websites and info pages, as well as making them visible to the community at events and workshops, can help community members know who to go to when incidents arise.
 
 # 10. Foster Healthy Collaborations within the Community
 
@@ -120,8 +153,6 @@ Seeking out programs and universities to partner with could be a practical way t
 Beyond research collaborations, experienced members of the Astropy community noted that in-person events are vital to building connections and being comfortable moving from user to active contributor. Travel expesnes and visa issues, though, prevent many potential community members from ever being in the same room as their peers:
 
 >_So definitely there's inequities and I guess people, you know, being able to have access to things like computing resources and travel. Well, travel, yeah, because really being able to be in person helps a lot and it helped so much for me to be working with the Astropy people at the Python in Astronomy Conference. But I was, at the time I was working for [notable astronomy organization] and they paid for my trip, so I didn't have any funding issues to go to it._ -astropy contributor
-
-
 
 Finally, participants expressed enthusiasm for the idea of creating and growing mentorship programs within Astropy. Even the most skilled developers can use guidance on navigating the more experience-based norms and practices of the community and broader OSS field. Mentorships, like all of the suggestions offered by the community, should be managed with intent and care. As one interviewee noted, it is important to ensure that these programs are sufficiently diverse so as to not recreate the same DEI issues communities in this domain have faced in the past; similarly, finding ways to not overburden underrepresented groups with these acts of service is essential:
 
