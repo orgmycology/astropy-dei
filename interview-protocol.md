@@ -30,8 +30,8 @@ What questions can I answer for you about the research we’re doing?_
 Questions 
 
 1. Tell us about your involvement with Astropy:
-- How did you get started?
-- What is your experience with the astropy community?
+  - How did you get started?
+  - What is your experience with the astropy community?
   
 2. What comes to mind when we bring up the topic of diversity, equity and inclusion?
    
