@@ -1,4 +1,4 @@
-# **Appendix A: Interview Questions for DEI Respondents** 
+# **Appendix: Interview Questions for DEI Respondents** 
 
 **Astropy Community Research**
 
@@ -16,6 +16,7 @@ Our broad research questions are as follows; specific interview questions appear
 8.   What feedback mechanisms would help advance DEI, beyond the Code of Conduct?
 
 **Housekeeping for Interviewee**
+
 _Thanks so much for being here, I really appreciate your willingness to do this. 
 Let’s get some of the housekeeping out of the way and then we’ll get into the conversation. 
 We are interested in understanding community thoughts around diversity, equity and inclusion. 
