@@ -1,4 +1,4 @@
-# **Appendix: Interview Questions for DEI Respondents** 
+# **Interview Questions for DEI Respondents** 
 
 **Astropy Community Research**
 
