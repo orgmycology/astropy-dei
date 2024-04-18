@@ -18,7 +18,7 @@ book:
   downloads: [pdf]
   page-footer:
     left: |
-     A report on Diversity Equity and Inclusion (DEI) in the Astropy community
+     A report on community views of Diversity Equity and Inclusion (DEI) in the Astropy community
     right: |
       [![](/short_logo.png)](https://orgmycology.com)
   cover-image: cover.png
