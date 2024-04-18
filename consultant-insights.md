@@ -63,7 +63,7 @@ Practically, Astropy could dedicate some form of communication to celebrating DE
 
 ## 9. Support the Community Manager in Developing DEI Expertise
 
-Given that DEI is an issue in the community, Astropy should give support to the Community Manager in developing DEI expertise as a part of their work. [_Note: It is vital that DEI is not viewed soley as a community manager problem or responsibility--DEI improvements require a community-wide effort_). Trainings, consultations with DEI-specific experts, and reading materials are all low-cost options for beginning to equip the community manager with the skills to facilitate DEI improvements. Furthermore, encouraging the community manager to work with other scientific organizations that are struggling with the same challenges can provide a way of creating more astronomy-centered or general knowledge on the topic. 
+Given that DEI is an issue in the community, Astropy should give support to the Community Manager in developing DEI expertise as a part of their work. [_Note: It is vital that DEI is not viewed soley as a community manager problem or responsibility–DEI improvements require a community-wide effort_). Trainings, consultations with DEI-specific experts, and reading materials are all low-cost options for beginning to equip the community manager with the skills to facilitate DEI improvements. Furthermore, encouraging the community manager to work with other scientific organizations that are struggling with the same challenges can provide a way of creating more astronomy-centered or general knowledge on the topic. 
 
 ## 10. Develop Future-forward Plans for DEI Efforts
 
