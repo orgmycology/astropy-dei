@@ -4,9 +4,9 @@ Astropy is aware of the need to improve the conditions that facilitate a diverse
 
 We also asked direct questions about how Astropy could direct its human and financial capital towards initiatives to create a more diverse, inclusive environment. Specifically, we asked respondents how leadership can use its influence to improve DEI outcomes in the community and how Astropy resources might be used to create events, materials, mentorships and other products in its DEI efforts.
 
-Our interviews also built on what we learned from the Community Survey about the importance of first-time contributions, the need to create robust and traversable user-to-contributor pathways, and the value of a welcoming environment in broadening participation. Some of our questions asked directly about participants' experiences in moving from user to contributor (or not) and in helping others to do the same.
+Our interviews also built on what we learned from the [Community Survey](https://astropy-report.orgmycology.com/), about the importance of first-time contributions, the need to create robust and traversable user-to-contributor pathways, and the value of a welcoming environment in broadening participation. Some of our questions asked directly about participants' experiences in moving from user to contributor (or not) and in helping others to do the same.
 
-The full interview protocol can be found in Appendix A: Interview Questions for DEI Respondents.
+The full interview protocol can be found in [Appendix A: Interview Questions for DEI Respondents](https://astropy-dei.orgmycology.com/interview-protocol).
 
 We recorded our 60-minute videoconference interviews and transcribed the conversations into text. We then analyzed the transcripts using standard qualitative data analysis techniques, which aim to identify and explore themes that were common across participants and insights that were novel and valuable, even when only one participant mentioned them. We put these findings into conversation with existing DEI guidance documents, the results of the Community Survey, and ongoing discussions with the Astropy community manager to present the themes and offer recommendations. 
 
