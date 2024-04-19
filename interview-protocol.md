@@ -1,6 +1,6 @@
-# **Interview Questions for DEI Respondents** 
+# Interview Questions for DEI Respondent
 
-**Astropy Community Research**
+## Astropy Community Research
 
 _Improving diversity, equity, and inclusion is a high priority for Astropy. With that in mind, we’ve designed an interview schedule that we will use to query a small subset of the Astropy community. We will ask them about their perceptions of the state of DEI in the community, what they think can be improved, and where Astropy might best direct its resources to addressing DEI issues._ 
 
@@ -15,7 +15,7 @@ Our broad research questions are as follows; specific interview questions appear
 7.   What should the role of the community manager be in Astropy’s DEI efforts?
 8.   What feedback mechanisms would help advance DEI, beyond the Code of Conduct?
 
-**Housekeeping for Interviewee**
+## Housekeeping for Interviewee
 
 _Thanks so much for being here, I really appreciate your willingness to do this. 
 Let’s get some of the housekeeping out of the way and then we’ll get into the conversation. 
@@ -28,7 +28,7 @@ We’d like to record this for our use internally for our research team. The rec
 Some colleagues are observing this session. They may have some questions at the end of our session but for most of the time it’ll just be us chatting.
 What questions can I answer for you about the research we’re doing?_
 
-Questions 
+## Questions 
 
 1. Tell us about your involvement with Astropy:
     - How did you get started?
