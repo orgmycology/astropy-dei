@@ -53,6 +53,61 @@ format:
     include-in-header:
       - text: |
           <script defer data-domain="reports.orgmycology.com" src="https://a.duckles.nz/js/script.js"></script>
+          <style>
+          @font-face {
+          font-family: concourse_3_caps;
+          font-style: normal;
+          font-weight: normal;
+          font-stretch: normal;
+          font-display: auto;
+          src: url('https://fonts.orgmycology.com/concourse/concourse_3_caps_regular.woff2') format('woff2');
+          }
+          
+          @font-face {
+          font-family: concourse_3_caps;
+          font-style: normal;
+          font-weight: bold;
+          font-stretch: normal;
+          font-display: auto;
+          src: url('https://fonts.orgmycology.com/concourse/concourse_3_caps_bold.woff2') format('woff2');
+          }
+          
+          @font-face {
+          font-family: concourse_3;
+          font-style: normal;
+          font-weight: normal;
+          font-stretch: normal;
+          font-display: auto;
+          src: url('https://fonts.orgmycology.com/concourse/concourse_3_regular.woff2') format('woff2');
+          }
+
+          @font-face {
+          font-family: concourse_3;
+          font-style: italic;
+          font-weight: normal;
+          font-stretch: normal;
+          font-display: auto;
+          src: url('https://fonts.orgmycology.com/concourse/concourse_3_italic.woff2') format('woff2');
+          }
+
+          @font-face {
+          font-family: concourse_3;
+          font-style: normal;
+          font-weight: bold;
+          font-stretch: normal;
+          font-display: auto;
+          src: url('https://fonts.orgmycology.com/concourse/concourse_3_bold.woff2') format('woff2');
+          }
+
+          @font-face {
+          font-family: concourse_3;
+          font-style: italic;
+          font-weight: bold;
+          font-stretch: normal;
+          font-display: auto;
+          src: url('https://fonts.orgmycology.com/concourse/concourse_3_bold_italic.woff2') format('woff2');
+          </style>
+    mainfont: concourse_3
   pdf:
     cover-image: cover.png
     documentclass: scrbook
