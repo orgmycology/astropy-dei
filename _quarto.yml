@@ -58,6 +58,8 @@ format:
     mainfont: concourse_4
     fontsize: medium 
   pdf:
+    number-depth: 0
+    pdf-engine: wkhtmltopdf
     cover-image: cover.png
     documentclass: scrbook
     papersize: a4
