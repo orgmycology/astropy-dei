@@ -138,7 +138,7 @@ On the other hand, the opacity of reporting in this way can make it difficult fo
 
 No matter the process, it is essential that someone in the project is visibly accountable for handling reports and ensuring that the process works as intended. Often this can be more than one person, such as a community manager and an ombudsman. Listing these responsible parties on websites and info pages, as well as making them visible to the community at events and workshops, can help community members know who to go to when incidents arise.
 
-# Foster Healthy Collaborations within the Community
+## Foster Healthy Collaborations within the Community
 
 Interviewees appreciated the collaborative environment Astropy has fostered, comparing it to the sense of competition they observe or pariticpate in with other scientific domains:
 
