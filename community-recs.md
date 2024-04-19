@@ -10,7 +10,7 @@ We are aware that Astropy maintains a list of "good first issues," but interview
 
 Furthermore, fear of failure and concern over contributing detrimental code also impacts newcomers' propensity to become contributors. Indeed, one astropy user we interviewed expressed fear of "breaking" something with new code, which has partially kept her from being a contributor:
 
->The imposter syndrome that kind of gets you where you're like, "Ooh, scary. What if I add this thing and it's bad or it breaks something? <span>Graduate student astropy user</span>
+>The imposter syndrome that kind of gets you where you're like, "Ooh, scary. What if I add this thing and it's bad or it breaks something?" <span>Graduate student astropy user</span>
 
 In considereding how to alleviate these fears, there was some optimism among interviewees that automated tooling could reduce the social or psychological burden of contributing, particularly for newcomers who might be nervous about the quality of their work:
 
