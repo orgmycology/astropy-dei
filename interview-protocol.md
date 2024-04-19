@@ -42,7 +42,7 @@ What questions can I answer for you about the research we’re doing?_
     - In open source?
     - [for everyone] in Astropy?
 
-4. We’re thinking of DEI broadly and we made a list of types of equity issues. We are especially interested in DEI efforts focused on the contributor and development community.  Which do you think needs the most attention for Astropy. 
+4. We’re thinking of DEI broadly and we made a list of types of equity issues. We are especially interested in DEI efforts focused on the contributor and development community.  Which do you think needs the most attention for Astropy? 
     - Race
     - Gender
     - Sexuality
