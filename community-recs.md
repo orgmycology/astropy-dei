@@ -2,7 +2,7 @@
 
 Our analysis of participant interview transcripts resulted in several community-led recommendations that we feel are valuable to consider when developing new approaches for advancing DEI in the Astropy project. Some of the recommendations echoed themes in Astropy's recent community survey, providing strong rationale for taking action on those points. Where possible, we provide quotes to support a given theme; in some cases, though, we do not provide an attribution or quotes in order to protect the identities and privacy of the respondents.
 
-## 1. Help Newcomers Find Support
+## Help Newcomers Find Support
 
 In DEI interviews and the [community survey](https://astropy-report.orgmycology.com), respondents overwhelmingly expressed a desire to improve avenues for newcomer participation in Astropy. Specifically, respondents noted that newcommers have trouble finding ways to get started working with and within Astropy communities. Ensuring a welcoming, accessible newcomer experience is vital to promoting a more diverse community and facilitating equity and inclusion, so we probed on this topic when it emerged in our interviews.
 
@@ -24,7 +24,7 @@ An astropy maintainer we interviewed noted that reframing some of these contribu
 
 Finding new avenues for community members and potential community members to contribute may also benefit from a broader view of the disciplines and backgrounds that are suitable for Astropy, a topic we expand upon in the next point.
 
-## 2. Embrace Intellectual Diversity
+## Embrace Intellectual Diversity
 
 Newcomer challenges are exacerbated when the community member is coming from a non-astronomy, non-scientific OSS discipline. In other words, it is difficult for individuals from other disciplines to "find a place" in the community, even when they believe their unique skillset could be beneficial to the project.
 
@@ -46,7 +46,7 @@ To be sure, this interviewee does view himself as somewhat of an "other": He is 
 
 In other contexts, we have seen the value of inviting participation from individuals with disciplinary backgrounds that may not seem like an ideal "fit" for the project. Technical writers can aid with documentation; data management specialists can find efficiencies in the data storage, manipulation, and processing pipelines inherent in OSS work; social scientists can provide data and insights that help improve collaboration and coordination; and users from wildly different domains can surface and explain issues that might be in typical users' or contributors' blindspots. Promoting intellectual diversity in the project, then, can be beneficial to many different aspects of project health, including but not limited to code quality.
 
-## 3. Learn from Other Communities and Their Events
+## Learn from Other Communities and Their Events
 
 We asked interviewees about their perception of DEI in both the Astropy community and the other communities they participate in. These questions elicited positive and negative examples, with the positive examples from other communities being useful anecdotes for Astropy to learn from. An astropy contributor, for example, recalled an incident he was a part of at a major astronomy conference and expressed appreciation for how it was handled:
 
@@ -60,7 +60,7 @@ Beyond negative incidents that were handled well, interviewees also discussed en
 
 Beyond these examples, looking to other communities can help to identify problems that are common across all types of OSS projects and adapt the solutions to them. OSS leaders know this well, given that they often share frustrations and ideas in informal ways. Formalizing this problem-and-idea sharing process could enable more members of the community to engage in developing solutions to some of the more common problems OSS projects face.
 
-## 4. Identify and Build on Positive Trends
+## Identify and Build on Positive Trends
 
 Across nearly all of our interviews, participants noted how positively they viewed the trend towards gender balance in the astronomy community, broadly, and the Astropy community, specifically. A graduate student astropy user, for example, noted that she has benefitted from observing and participating in a field where women have excelled in teaching, research, and software development:
 
@@ -78,7 +78,7 @@ Similarly, the community is yearning to diversify the racial and ethnic makeup o
 
 Elevating role models from underrepresented backgrounds requires careful attention to detail, though: Projects must not "tokenize" members of their communities and likewise should avoid adding additional service work to their workload without appropriate input and reward. Self-nomination is a good way to identify potential role models who would be willing to promote visibility and inclusion.
 
-## 5. Give Guidance to Core Developers and Maintainers
+## Give Guidance to Core Developers and Maintainers
 
 A recurrent theme across any type of social science inquiry into OSS projects is the demeanor of the project's core developers, contributors, and maintainers. To be frank, these individuals can get caught in a bind: The time demands of the (often voluntary) work are not always amenable to kind, patient, and thoughtful interaction. Furthermore, these groups grow accustomed to interacting with one another in ways that prioritize efficiency and technical development over social dynamics. 
 
@@ -92,7 +92,7 @@ Reiterating the "friendly face" to core project members--whether through formal 
 
 > I mean, yeah, we don't assign them to anything. If they actually had a very tight PR, so it was well-focused on one issue, then that often takes the form of right here: "Thank you so much for contributing. There are plenty of other of these types of PRs. We have a list of them on our issues page on GitHub, so please take a look." That's if their PR was well-crafted from the get-go. <span>Astropy maintainer</span>
 
-## 6. Make Community Member Roles and Pipelines Explicit
+## Make Community Member Roles and Pipelines Explicit
 
 Interviewees and survey respondents alike mentioned that the process of moving from user to contributor to core project member is not always explicit or easy to map out. When a newcomer, especially one from an underrepresented background, is considering joining a community, the lack of clarity on this potential trajectory can be a deterrent. In other words, it is easier and more comfortable to learn both technical practices and social norms when one's future role in a commmunity is easy to imagine. 
 
@@ -102,7 +102,7 @@ Making the various community member pipelines explicit could go a long way in di
 
 In this case, the interviewee ascribes the lack of CoCo diversity to the lack of diversity in the discipline more broadly. The next section, consultant insights, will dive a bit deeper into how Astropy might view itself as a catalyst for change in this domain. Regardless, sparking these kinds of conversations about how newcomers, and even experienced community members, perceive their future in the project can surface actionable insights to improve the project's pipeline from role-to-role.
 
-## 7. Use "Buzzwords" with Care
+## Use "Buzzwords" with Care
 
 The temperature around DEI conversations has risen in recent years: From business leaders to governments to scientists, not everyone is on board with the idea of intentionally promoting diversity, equity, and inclusion in organizations. The recent fervor around this topic has made word choices and explanations of concepts critical to productive discussion. For this reason, community members suggested that Astropy use care and caution when communicating about its DEI efforts. 
 
@@ -116,7 +116,7 @@ She continued, noting that word choices can influence who ends up in a community
 
 Consulting with DEI experts who have a strong command on DEI-focused language and messaging can help in this regard. OrgMycology is limited in its capabilities in this domain, but is happy to offer suggestions for organizations and individuals who hold expertise on communicating about DEI.
 
-## 8. Offer Safe, Constructive Avenues for Feedback
+## Offer Safe, Constructive Avenues for Feedback
 
 Feedback and collaboration are central elements of any successful OSS project, where contributors, core developers, and maintainers must work together in cohesion. The structure and tenor of these feedback loops are as important as the content: Unhealthy interactions can stymie motivation to participate, especially when participation is voluntary. Incidents have occurred within the Astropy community that speak to the need to provide more guidance and training on interacting with respect and kindness:
 
@@ -128,7 +128,7 @@ Two interviewees mentioned that meeting people in-person helped to feel more com
 
 Considering conditions such as these is important when designing avenues for users and contributors to receive feedback. Face time, in other words, can help put potential contributors at ease and make contributions more accessible to a wider variety of individuals. While scaling this approach is difficult, even short videoconferences may provide some of the social interaction necessary to get users over the threshold to contributors and help them feel that feedback is constructive and healthy.
 
-## 9. Implement and Enforce the Code of Conduct with Creativity
+## Implement and Enforce the Code of Conduct with Creativity
 
 Codes of conduct are very useful for making community members feels safe and comfortable interacting within a community. Many projects, however, struggle with how to implement and enforce these codes of conduct. The primary problem, according to interviewees, is the balance between anonymized and private incident reporting and human-centered incident reporting. On one hand, anonymized reporting can make community members less fearful of retribution for reporting an incident. 
 
@@ -138,7 +138,7 @@ On the other hand, the opacity of reporting in this way can make it difficult fo
 
 No matter the process, it is essential that someone in the project is visibly accountable for handling reports and ensuring that the process works as intended. Often this can be more than one person, such as a community manager and an ombudsman. Listing these responsible parties on websites and info pages, as well as making them visible to the community at events and workshops, can help community members know who to go to when incidents arise.
 
-# 10. Foster Healthy Collaborations within the Community
+# Foster Healthy Collaborations within the Community
 
 Interviewees appreciated the collaborative environment Astropy has fostered, comparing it to the sense of competition they observe or pariticpate in with other scientific domains:
 
