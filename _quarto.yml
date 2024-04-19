@@ -55,7 +55,7 @@ format:
     include-in-header:
       - text: |
           <script defer data-domain="reports.orgmycology.com" src="https://a.duckles.nz/js/script.js"></script>
-    mainfont: concourse_4
+    mainfont: valkyrie_a_regular
     fontsize: medium 
   pdf:
     number-depth: 0
