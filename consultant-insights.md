@@ -2,7 +2,7 @@
 
 The insights offered from the community members we interviewed reflect both challenges and opportunities that Astropy leadership can learn from in improving the project climate around DEI issues. Below, we offer some interpretation of the community's ideas alongside approaches we've seen work well for projects and organizations who have addressed similar issues. These recommendations are not exhaustive; indeed, our final recommendation suggests that further inquiry is needed that goes beyond the bounds of the Astropy community, ideally in consultation with DEI-specific experts. In other words, future DEI work at Astropy might aim to survey and interview those individuals who are _not_ involved in the community, but were once involved or would be good fits for the project. Likewise, partnering with organizations in the Astropy's broader overlapping environments (e.g., astronomy and open source software) could aid in addressing some of the ecosystem-oriented challenges such as the lack of diversity in scientific disciplines. This approach would be a good step in acting upon the first recommendation: View Astropy as a Catalyst for Change in the Broader Scientific and Computing Landscapes.
 
-## 1. View Astropy as a Catalyst for Change in the Broader Scientific and Computing Landscapes
+## View Astropy as a Catalyst for Change in the Broader Scientific and Computing Landscapes
 
 As discussed in the first section of this report, a significant portion of Astropy's need to improve DEI conditions stems from its position at the center of overlapping communities. Each of the scientific (e.g., astronomy, physics) and computing fields it draws its community members from are among the worst performers in fostering diverse, equitable, and inclusive environments. But rather than wait for these fields to change, Astropy can (and is beginning to) take steps to be part of the solution. Below, we offer some concrete recommendations for becoming such a catalyst in the broader scientific and computing ecosystem.
 
@@ -18,7 +18,7 @@ Astropy participates in a number of programs with adjacent communities, includin
 
 Across all these efforts, Astropy should strive to be a place where underrepresented individuals can learn new technical and collaborative skills while also growing a strong network. Indeed, DEI experts routinely point out that networking is one of the major challenges facing scientists from underrepresented backgrounds given that they often lack the resources and starting points that well-represented groups benefit from. Astropy is a home for some of the most influential scientists and developers in the field, a capability that could be used to advance the careers of underrepresented groups. 
 
-## 2. Embrace and Cultivate Intellectual Diversity
+## Embrace and Cultivate Intellectual Diversity
 
 As discussed in the Community Recommendations section, open source scientific computing is growing in both size and scope: Practitioners interested in a wide variety of programming languages and computational techniques are looking for opportunities to contribute to projects while advancing their own expertise and careers. We are referring to this as "intellectual diversity" for simplicity and believe that it could be a key mechanism of increasing other forms of diversity within and outside of Astropy.
 
@@ -31,7 +31,7 @@ This is certainly not to suggest that other fields have achieved desired results
 - Emerging computing fields (e.g., machine learning, AI) often include practitioners from countries that are not well-represented in astronomy. Giving these individuals an opportunity to work on problems within their computing domains, perhaps in teams with experienced astronomers and astronomy software developers, could offer an entrypoint for non-U.S. and non-European scientists and developers.
 - Fostering intellectual diversity within Astropy can also help the project attract more funds. In other words, widening the scope of computational and scientific approaches opens up new sources of funding that are supporting these fields and approaches. With diverse membership, Astropy would be in a position to apply for such funds. 
 
-## 3. Actively Learn from Adjacent Communities
+## Actively Learn from Adjacent Communities
 
 In at least one interview, the respondent effusively praised the experience he had at a SciPy event based on both positive and negative experiences (see the Community Recommendations section). Continuously looking for these positive examples and experiences may help Astropy identify what works for its community and steps it can take to foster these positive experiences.
 
@@ -39,15 +39,15 @@ In at least one interview, the respondent effusively praised the experience he h
 - Engage in conversations with other communities about DEI issues. Astropy has already taken steps to do this with communities like pyOpenSci and via collectives like NumFOCUS, but the project could hold these conversations more regularly to share ideas. Ideally, these conversations would be happening at all levels of the organization, including leadership-to-leadership, community manager-to-community manager, maintainer-to-maintainer, and across these groups.
 - Take note when incidents–both positive and negative–become topics of discussion in the broader ecosystem. Whether through informal networks or in public places like forums, leaders in the OSS community often become aware of both good and bad social incidents. Taking time to debrief and discuss these incidents within project teams is a good way to ensure that steps are taken to avoid replicating these issues in your community. 
 
-## 4. Be Open to, But Critical of Shared Services
+## Be Open to, But Critical of Shared Services
 
 Astropy community members are already busy with considerable commitments in many areas: software development, day-jobs (e.g., professorships or industry positions), and career advancement and professional development. It can therefore be tempting or simply necessary to consider shared services models for some core community activities. One example of this is the idea of a fiscal sponsor (e.g., NumFOCUS) providing a range of administrative and community services. Astropy is currently experiencing this with its fiscal sponsor organizing and maintaining a Code of Conduct enforcement committee for all fiscally sponsored projects. To be sure, an organization like NumFOCUS convenes a range of projects that face challenges similar to Astropy, so results may be positive if they adequately crowdsource and member-check proposed solutions. But as we've seen in other domains, offshoring tasks that require ongoing commitment and attention over the life of a project can lead to the commnuity losing touch with its own needs and its own perspective on potential solutions. For instance, the root-causes of Code of Conduct violations may differ across projects, and enabling the community to be involved in Code of Conduct process formation may help to address blindspots at the cross-project level. Finding a balance where the community can collectively hold its enforcement, and have enabling infrastructure and guidance that makes it "lightweight" to do so, are what we'd recommend for a growing community like Astropy. 
 
-## 5. Consider Geography and Timezones
+## Consider Geography and Timezones
 
 Both the communnity survey and the DEI interviews indicated that there is a dominant gravity for timezones in North America when scheduling events and workshops. This can lead the community to have conversations and make decisions during times that are difficult for those in other global timezones to participate in, leading to feelings of exclusion. Astropy is already a very asynchronous community, but in its synchronous moments, it could be useful to bring more consideration to those in minority timezone areas. Additonally, when key annual events are held in the USA, there can be very restrictive visitation visa restrictions for travel to the United States for people from some locales. It can be worthwhile to consider annual events taking place each year in countries with less restrictive visa requirements.
 
-## 6. Develop Community-Driven Definitions and Metrics for Diversity
+## Develop Community-Driven Definitions and Metrics for Diversity
 
 The Astropy community should work to collectively define its own targets and progress benchmarks for increasing and expanding diversity as a community. It is clear that the astronomy community at-large still has siginificant DEI issues, and it is also clear that many in the Astropy community aspire for the project to challenge those trends with a new model of working and including others. 
 
@@ -55,22 +55,22 @@ For this to be successful, it will be important for the leadership of Astropy to
 
 These open prompts often lead to side discussions, and can be directed toward coworking events, workshops, and other synchronous activities aimed at developing solutions. It can be thought of as a "DEI Hackweek," with the understanding that planning will require substantial consideration of guardrails and Code of Conduct enforcement. 
 
-## 7. Use _Political Opportunity Structures_ to Drive Change
+## Use _Political Opportunity Structures_ to Drive Change
 
 Given that Astropy operates at the intersection of various fields and institutions (e.g., academia, industry, and government or astronomy and computing), the project also has these fields' _political opportunity structures_ to draw from when crafting DEI strategies. This term refers to the available structures external to a movement (in this case Astropy) that help the movement accrue and mobilize resources. The most influential example is the role of Black churches in the United States Civil Rights Movement: Movement leaders and participants had pre-existing organizing capabilities and resources through their churches, enabling them to effectively mobilize for change. 
 
 Consider what structures exist within the fields of astronomy, computing, academia, and all other Astropy-adjacent communities. What other efforts are ongoing within the field that could lead to more diversity and inclusion? Where are others in adjacent fields already accruing resources and building communication structures to enact change, even if those changes are not directly DEI-related? Answering these questions as leaders and community members may help to put more power and efficiency behind DEI efforts.
 
-## 8. Celebrate Progress
+## Celebrate Progress
 
 It is important when working on challenging topics like DEI to celebrate strides in the community and improvements as they occur. Interview participants, for example, universally lauded the progress astronomy has made in enabling women astronomers to thrive and some pointed directly to Astropy as an example of this positive trend. Continually assessing the state of Astropy's DEI efforts and creating opportunities to celebrate success can be a motivating factor to push additional efforts forward.
 
 Practically, Astropy could dedicate some form of communication to celebrating DEI successes. Quarterly newsletters, informal presentations, or Slack/forum announcements, for example, could routinely report on progress being made in advancing DEI. Furthermore, these announcements need not only be focused on Astropy: Drawing on the existing diversity of disciplines and sub-disciplines gives ample materials to work with, and celebrating the successes of other communities is a sustainable way to draw in new users and contributors in a welcoming, inclusive way.
 
-## 9. Support the Community Manager in Developing DEI Expertise
+##  Support the Community Manager in Developing DEI Expertise
 
 Given that DEI is an issue in the community, Astropy should give support to the Community Manager in developing DEI expertise as a part of their work. [_Note: It is vital that DEI is not viewed soley as a community manager problem or responsibility–DEI improvements require a community-wide effort_). Trainings, consultations with DEI-specific experts, and reading materials are all low-cost options for beginning to equip the community manager with the skills to facilitate DEI improvements. Furthermore, encouraging the community manager to work with other scientific organizations that are struggling with the same challenges can provide a way of creating more astronomy-centered or general knowledge on the topic. 
 
-## 10. Develop Future-forward Plans for DEI Efforts
+##  Develop Future-forward Plans for DEI Efforts
 
 Similar to recommendation 6, Astropy should consider developing a formal and adaptable strategy for DEI improvements in the near and long terms. Thinking towards the future of DEI for Astropy would include prompting an ongoing discussion of what the community would like to see going forward and how to continue to make these efforts a community conversation. Futures Thinking Exercises and co-creation of this vision can promote buy-in among the community by bringing those interested in leading DEI efforts together. 
