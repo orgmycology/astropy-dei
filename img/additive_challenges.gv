@@ -1,0 +1,34 @@
+digraph DEI_Challenges {
+node [fontname="Concourse 3 Regular"];
+graph [dpi=300]
+// Graph properties
+  rankdir=LR;
+  size="8,5";
+  node [shape=rectangle];
+
+  // Main discipline node
+  main_discipline [shape=circle, label="Astropy", style=filled, color=lightgrey];
+
+  // Sub-discipline nodes
+  sub1 [label="Computer Science"];
+  sub2 [label="Physics"];
+  sub3 [label="Chemistry"];
+  sub4 [label="Software Engineering"];
+  sub5 [label="Astronomy"];
+
+
+  // Additive effect nodes
+  additive_effect [label="Additive DEI Challenges", shape=rectangle, style=filled, color=lightblue];
+
+  // Edges representing challenges in sub-disciplines
+  sub1 -> additive_effect;
+  sub2 -> additive_effect;
+  sub3 -> additive_effect;
+  sub4 -> additive_effect;
+  sub5 -> additive_effect;
+
+
+  // Edge representing the impact on the main discipline
+  additive_effect -> main_discipline;
+
+}
