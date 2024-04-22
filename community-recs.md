@@ -150,7 +150,7 @@ Across all interviewees, though, there was an expressed desire to make these col
 
 Seeking out programs and universities to partner with could be a practical way to foster more diverse collaborations within Astropy and in the discipline more broadly. As one participant mentioned, historically-Black colleges and universities are not well-represented in Astropy; being intentional about making those collaborations happen may be beneficial to the project's overall diversity and health.
 
-Beyond research collaborations, experienced members of the Astropy community noted that in-person events are vital to building connections and being comfortable moving from user to active contributor. Travel expesnes and visa issues, though, prevent many potential community members from ever being in the same room as their peers:
+Beyond research collaborations, experienced members of the Astropy community noted that in-person events are vital to building connections and being comfortable moving from user to active contributor. Travel expenses and visa issues, though, prevent many potential community members from ever being in the same room as their peers:
 
 >So definitely there's inequities and I guess people, you know, being able to have access to things like computing resources and travel. Well, travel, yeah, because really being able to be in person helps a lot and it helped so much for me to be working with the Astropy people at the Python in Astronomy Conference. But I was, at the time I was working for [notable astronomy organization] and they paid for my trip, so I didn't have any funding issues to go to it. <span>Astropy contributor</span>
 
