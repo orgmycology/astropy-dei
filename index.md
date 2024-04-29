@@ -1,4 +1,3 @@
-
 ## Disclaimer
 
 **The views reflected in this report come from a variety of sources within the Astropy community and from Organizational Mycology. These views do not necessarily reflect the thoughts and opinions of Astropy leadership or the broader Astropy community. Given how sensitive these topics can be, please feel free to reach out to us at [info@orgmycology.com](mailto:info@orgmycology.com) with any questions, comments, or concerns.**

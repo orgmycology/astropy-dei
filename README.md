@@ -8,12 +8,15 @@ If you'd like to have Organizatinoal Mycology do similar work with you, get in t
 
 ## Dependencies
 
-    quarto
-    xelatex (to build PDF)
+```
+quarto
+xelatex (to build PDF)
+```
 
 ```
 quarto render # builds PDF and HTML versions of report
 ```
 
 ## Automation
+
 A GitHub action runs the build and pushes to Cloudflare Pages on each commit.
